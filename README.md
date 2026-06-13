@@ -25,7 +25,7 @@ Cada LAB deste repositório segue uma abordagem prática:
 
 ---
 
-## 📁 Estrutura dos LABs
+## 📁 Estrutura dos Laboratórios
 
 ```bash
 /sql-labs
