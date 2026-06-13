@@ -6,6 +6,7 @@
 # --- Arquivos de sistema / IDE (SSMS / VS) ---
 .vs/
 **/.vs/
+./Scripts
 
 # Ignorar arquivos temporários do VS Shell
 *.suo
@@ -42,6 +43,7 @@ dump/
 *.ldf
 *.ndf
 
+
 # --- Arquivos temporários de Office ---
 ~$*
 *.tmp.docx
@@ -59,3 +61,4 @@ dump/
 !LICENSE
 !README.md
 /.vs/VSWorkspaceState.json
+/.vs/SQLServerLABs.slnx/v18/.wsuo
